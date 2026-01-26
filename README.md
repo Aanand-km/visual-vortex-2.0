@@ -109,24 +109,3 @@ More human, supportive learning experience
 ✔ Front-end prototype implemented
 🔄 Open for iteration and feedback
 
-🙌 Author
-
-Anand
-UX-Focused Front-End Developer
-Learning-Driven Product Thinker
-
-⭐ If you like this project
-
-Feel free to star ⭐ the repo, explore the code, or suggest improvements.
-
-If you want next, I can:
-
-Make this shorter for recruiters
-
-Add a “Screens & Flow” section
-
-Convert it into a Notion / PDF UX case study
-
-Or optimize it for internship applications
-
-Just say the word.
